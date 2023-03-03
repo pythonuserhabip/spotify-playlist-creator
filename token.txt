@@ -1,1 +1,1 @@
-{"access_token": YOUR ACCES TOKEN FROM SPOTİPY}
+{"access_token": YOUR ACCESS TOKEN FROM SPOTİPY}
