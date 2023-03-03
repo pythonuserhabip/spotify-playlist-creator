@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-client_id = "c8bf9a804f0f468eaa6241b33a884f6b"
-client_secret = "927af1070ae74b8f8496c297e7eb1823"
+client_id = "YOUR CLİENT İD"
+client_secret = "YOUR CLİENT SECRET"
 
 date = input("Which year do you want to travel to? Type the date in this format YYYY-MM-DD: ")
 song_names = ["The list of song", "titles from your", "web scrape"]
